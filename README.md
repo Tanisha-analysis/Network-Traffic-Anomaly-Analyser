@@ -52,3 +52,11 @@ Developed as an MCA mini project.
 ## Output Screenshot
 
 ![Network Traffic Anomaly Analyser Output](./output.png)
+
+## Live Demo
+
+Try the Network Traffic Anomaly Analyser online:
+
+[Open Live Website](https://network-traffic-anomaly-analyser--nishupanchal776.replit.app)
+
+This web application analyses uploaded CSV network traffic data and flags potentially unusual patterns using predefined detection rules.
